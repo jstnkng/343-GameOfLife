@@ -1,0 +1,2 @@
+This is the game of life
+The command line arguments will be the dimensions of the grid. After each new generation, the output file should be written to the input file, and then read in the input file to display the new generation. The user can either save their progress in a .txt file, load in a .txt file to resume their game, continue one more generation, iterate through a given number of iterations, or quit the game.
